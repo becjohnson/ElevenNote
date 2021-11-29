@@ -1,0 +1,2 @@
+C:\Users\beaut\Desktop\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.AssemblyReference.cache
+C:\Users\beaut\Desktop\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CoreCompileInputs.cache
