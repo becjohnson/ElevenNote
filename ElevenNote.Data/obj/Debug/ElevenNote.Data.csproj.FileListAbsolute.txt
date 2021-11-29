@@ -32,3 +32,6 @@ C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.cspr
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.firstmigration.resources
