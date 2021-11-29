@@ -11,7 +11,6 @@ C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
-C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
 C:\Users\beaut\Desktop\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
